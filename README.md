@@ -1,0 +1,1 @@
+The goal for this project was to get a understanding of the primary functions of HTML, CSS and JavaScript. A math game that has a timer set to 60 seconds. The player must get as many correct points as possible. The game will end once the timer reaches 0. 
